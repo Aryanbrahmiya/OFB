@@ -1,2 +1,2 @@
 # OFB
-Author-Aryan (Brahmiya)
+Author-Aryan Brahmiya
